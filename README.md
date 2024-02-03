@@ -1,4 +1,4 @@
-# ![https://www.linkedin.com/in/davianascanio97/][<img src="[image.png](https://raw.githubusercontent.com/DavianAscanio97/DavianAscanio97/master/Logo.png)" width="150"/>]([image.png](https://raw.githubusercontent.com/DavianAscanio97/DavianAscanio97/master/Logo.png)) Hola, mi nombre es Davian Ascanio 👋 
+# ![https://www.linkedin.com/in/davianascanio97/](https://raw.githubusercontent.com/DavianAscanio97/DavianAscanio97/master/Logo.png) Hola, mi nombre es Davian Ascanio 👋 
 ### Freelance full-stack iOS & Android engineer
 
 ![https://github.com/DavianAscanio97](https://raw.githubusercontent.com/DavianAscanio97/DavianAscanio97/master/Banner.png)
