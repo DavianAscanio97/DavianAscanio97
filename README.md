@@ -1,7 +1,7 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/DavianAscanio97/DavianAscanio97/master/Logo.png) Hola, mi nombre es Davian Ascanio 👋
+# ![https://www.linkedin.com/in/davianascanio97/](https://raw.githubusercontent.com/DavianAscanio97/DavianAscanio97/master/Logo.png) Hola, mi nombre es Davian Ascanio 👋
 ### Freelance full-stack iOS & Android engineer
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/DavianAscanio97/DavianAscanio97/master/Banner.png)
+![https://github.com/DavianAscanio97](https://raw.githubusercontent.com/DavianAscanio97/DavianAscanio97/master/Banner.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
